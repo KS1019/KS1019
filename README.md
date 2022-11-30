@@ -6,4 +6,4 @@ You can find me on
 - [LinkedIn](https://www.linkedin.com/in/kotarosuto/)
 - [Twitter](https://twitter.com/Kotarong1)
 
-You can check out my resume [here](https://github.com/KS1019/KS1019/blob/Resume_KotaroSuto_2022.pdf)
+You can check out my resume [here](https://github.com/KS1019/KS1019/blob/main/Resume_KotaroSuto_2022.pdf)
