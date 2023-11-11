@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kotaro. I am a CS major student and looking for an internship opportunity for 2023 Summer.
+I am Kotaro. I am a Computer Science (B.S) student at University of California, Santa Cruz and looking for a full time opportunity starting in 2024 Summer.
 
 You can find me on
 - [LinkedIn](https://www.linkedin.com/in/kotarosuto/)
